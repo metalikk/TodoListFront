@@ -1,0 +1,39 @@
+
+  h1 {
+    text-align: center;
+    color: rgb(51, 30, 243);
+    font-weight: bold
+    
+  }
+  .container1 {
+    margin-left: auto;
+    margin-right: auto;
+    width:700px;
+    border-radius: 30px;
+  }
+  .container2 {
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .btn-danger {
+    margin-bottom: 60px;
+    margin-left: 47%;
+  }
+  .btn-warning{
+    margin-left: 200px;
+    border-radius: 20px;
+  }
+  .liste{
+  width: 400px;
+  border:none;
+  background-color: #e9ecef;
+  padding-left: 30px;
+  }
+  .check{ 
+	margin-left: 10px; 
+  }
+  .input-group-text{
+  border-radius: 30px;
+ 
+  }
